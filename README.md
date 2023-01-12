@@ -1,3 +1,3 @@
 # improved_iris_classification
-### WHat is it?
-A repository that creates a dataset from the  that classifies flower based on their features.
+### What is it?
+A repository that creates a Pandas DataFrame from the `iris_species.csv` file and trains a model. Streamlit is then used to visualise the data, adjust flower feature variables and classify the type of the flower.
